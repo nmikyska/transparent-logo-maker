@@ -1,0 +1,6 @@
+{
+  "name": "Oasis Escrow Logo Processor",
+  "description": "An application to process and display the Oasis Escrow logo, featuring background removal and visual enhancements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
